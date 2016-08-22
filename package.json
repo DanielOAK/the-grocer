@@ -1,0 +1,21 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "dan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.1",
+    "mongoose": "^4.5.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-nodemon": "^0.4.2"
+  }
+}
